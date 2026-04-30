@@ -1,7 +1,7 @@
 # QA Project – Login System Testing (E-commerce Demo)
 
 ## Overview
-This project demonstrates manual QA testing of a login system for an e-commerce application.  
+This project demonstrates manual QA testing of a login system for an e-commerce web application.  
 It includes functional test design, negative testing scenarios, and a real defect report identified during testing.
 
 ---
