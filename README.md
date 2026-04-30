@@ -33,5 +33,5 @@ It includes functional test design, negative testing scenarios, and a real defec
 ---
 
 ## Files
-- Login Test Cases 
-- Login Bug Report
+- [Login Test Cases](./test-cases.md)
+- [Login Bug Report](./bug-report.md)
